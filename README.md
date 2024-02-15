@@ -6,8 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Karan-yellow)](https://stackoverflow.com/users/22348301/karan-verma108)
 
 I'm
-Full Stack Development Intern (currently)
-This is Karan. I have great zeal for the full stack development. I've come across various useful technologies to develop websites and web appliations. As of late, I'm learning about the MERN STACK (MongoDB, Express.js, React.js and Node.js). I've created several personal projects using primarily HTML and CSS and, few projects with backend included. I'm extremely content to join this platform and looking furthur to contribute in every possible way.
+This is Karan. I've recently completed a MERN stack internship with Edureka. I've come across various useful technologies to develop websites and web appliations. As of late, I'm learning about jQuery along with polishing my MERN stack skills. I've created several personal projects using primarily HTML,CSS, JavaScript few projects (MERN stack). I'm extremely content to join this platform and looking furthur to contribute in every possible way.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Karandeveloper/count.svg)
