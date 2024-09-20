@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Karan-green)](https://karan-verma108.github.io/Profile_Website_Karan/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Karan-yellow)](https://stackoverflow.com/users/22348301/karan-verma108)
 
-This is Karan. I've recently completed a MERN stack internship with Edureka. I've come across various useful technologies to develop websites and web appliations. As of late, I'm learning about jQuery along with polishing my MERN stack skills. I've created several personal projects using primarily HTML,CSS, JavaScript few projects (MERN stack). I'm extremely content to join this platform and looking furthur to contribute in every possible way.
+This is Karan, an associate software developer, trying everyday to excel more and more in the field of web developement. Some of my primary skills include :-> JavaScript, TypeScript, React.js, Next.js, Bootstrap, Tailwind CSS, HTML, CSS... 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Karandeveloper/count.svg)
