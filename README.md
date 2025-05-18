@@ -1,8 +1,9 @@
 <!-- PROFILE README - DARK THEME STYLING -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hey%20there,%20I'm%20Karan%20Verma%20🚀&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20UI%20Dev&descSize=18&descAlign=50&descAlignY=60&color=1e3c72,2a5298,be5396,ff6a00" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:e96443,1:904e95&height=200&section=header&text=Hi%20There,%20I'm%20Karan%20Verma%20👋&fontColor=ffffff&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
+
 
 
 
