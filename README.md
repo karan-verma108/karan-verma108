@@ -1,8 +1,13 @@
 <!-- PROFILE README - DARK THEME STYLING -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:e96443,1:904e95&height=200&section=header&text=Hi%20There,%20I'm%20Karan%20Verma%20👋&fontColor=ffffff&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=F7971E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Karan+Verma+👋;Full+Stack+Developer+%7C+Open+Source+Fan+%7C+Dark+UI+Lover;Let's+build+something+awesome+💻" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&text=Welcome%20to%20My%20Profile%20⚡&fontAlign=50&fontColor=ffffff&fontSize=30&desc=Frontend%20%7C%20Backend%20%7C%20DevOps%20%7C%20AI&descAlign=50&descSize=18&animation=fadeIn&color=0f2027,203a43,2c5364" />
+</p>
+
 
 
 <p align="center">
