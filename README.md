@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/karan-verma-276557201/)"/></a>
+ <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/karan-verma-276557201/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:karanverma201411@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
